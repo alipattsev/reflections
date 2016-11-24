@@ -4,4 +4,4 @@ You create a hidden .git folder that git uses to track changes and do the rest t
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-The staging area is where you temporarily place the files that you are working on. You take these files from the working directory and you may commit them the repository if you are happy with the changes.
+The staging area is where you temporarily place the files that you are working on. You take these files from the working directory and you may commit them the repository if you are happy with the changes. Small change.
