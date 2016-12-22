@@ -9,3 +9,7 @@ My changes might not be ready for public consumption. Pulling changes manually a
 Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are clones of GitHub repositories on GitHub. Clones are copies of repositories on a local machine, either from a remote location or locally. Branches are simply experimental or additional commits that explore a different avenue in development than the main project. Forks are used to create copies of other people's repositories on GitHub that you cannot edit. Clones are similar but are useful if you expect complex code editing which is best done locally. Branches are useful to experiment or work on a particular element of a project.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This allows making sure that you are working on the most recent version of the project.
