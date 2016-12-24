@@ -13,3 +13,7 @@ Forks are clones of GitHub repositories on GitHub. Clones are copies of reposito
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 
 This allows making sure that you are working on the most recent version of the project.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would probably upload the files that I'm working on to a cloud storage service. It's easy enough to track simple changes in text files using Google Docs, but reverting, merging and pushing becomes more difficult or even impossible.
