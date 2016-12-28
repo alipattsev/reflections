@@ -17,3 +17,7 @@ This allows making sure that you are working on the most recent version of the p
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would probably upload the files that I'm working on to a cloud storage service. It's easy enough to track simple changes in text files using Google Docs, but reverting, merging and pushing becomes more difficult or even impossible.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Making changes in a branch allows maintaing a stable in-prod version while experimenting with either the core elements of a project or some new ideas. Editing in master might be necessary when a clear bug has been identified.
